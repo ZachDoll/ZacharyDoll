@@ -4,7 +4,8 @@ html, body {
   font-family: 'Arvo', serif; font-size: 16px;
 } 
 .logo {
-  padding-top: 10px;
+  padding-top: 2%;
+  color: rgb(119,167,165);
 }
 .container {
   margin: 0 auto; 
