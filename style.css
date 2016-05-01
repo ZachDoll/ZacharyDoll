@@ -3,6 +3,9 @@ html, body {
   padding: 0; 
   font-family: 'Arvo', serif; font-size: 16px;
 } 
+.logo {
+  padding-top: 10px;
+}
 .container {
   margin: 0 auto; 
 } 
