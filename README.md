@@ -1,2 +1,0 @@
-# senteel
-Smart Assisted Living
